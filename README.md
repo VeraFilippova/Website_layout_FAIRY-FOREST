@@ -2,6 +2,8 @@
 
 Вебсайт с паралакс эффектом
 
+website - https://vera-filippova.ru/parallax/index.html
+
 Html
 CSS
 JS
